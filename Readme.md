@@ -42,7 +42,7 @@ If the player guesses the word before the hangman is fully drawn, they win! Othe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hangman.git
+   git clone https://github.com/SameerVohra/Hangman_Cpp.git   
    ```
 
 2. Navigate to the project directory:
